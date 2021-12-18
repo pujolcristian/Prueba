@@ -8,8 +8,8 @@ import androidx.lifecycle.Observer
 import com.ceiba.mobile.dialogs.LoadingDialog
 import com.ceiba.mobile.vo.User
 import com.ceiba.mobile.vo.UserPost
-import com.codapps.examen_ingreso_android.R
-import com.codapps.examen_ingreso_android.databinding.ActivityPostBinding
+import com.ceiba.examen_ingreso_android.R
+import com.ceiba.examen_ingreso_android.databinding.ActivityPostBinding
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

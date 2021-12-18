@@ -8,7 +8,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.view.Window
 import androidx.fragment.app.DialogFragment
-import com.codapps.examen_ingreso_android.databinding.DialogLoadingBinding
+import com.ceiba.examen_ingreso_android.databinding.DialogLoadingBinding
 
 class LoadingDialog : DialogFragment() {
 

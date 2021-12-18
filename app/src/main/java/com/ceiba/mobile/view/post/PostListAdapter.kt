@@ -1,16 +1,13 @@
 package com.ceiba.mobile.view.post
 
 import android.view.LayoutInflater
-import android.view.View
 import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
 import androidx.recyclerview.widget.DiffUtil
 import com.ceiba.mobile.utils.DataBoundListAdapter
-import com.ceiba.mobile.vo.User
 import com.ceiba.mobile.vo.UserPost
-import com.codapps.examen_ingreso_android.R
-import com.codapps.examen_ingreso_android.databinding.PostListItemBinding
-import com.codapps.examen_ingreso_android.databinding.UserListItemBinding
+import com.ceiba.examen_ingreso_android.R
+import com.ceiba.examen_ingreso_android.databinding.PostListItemBinding
 
 class PostListAdapter() :
     DataBoundListAdapter<UserPost, PostListItemBinding>(

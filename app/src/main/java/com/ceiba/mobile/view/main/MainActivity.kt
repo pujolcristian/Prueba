@@ -14,8 +14,8 @@ import com.ceiba.mobile.dialogs.LoadingDialog
 import com.ceiba.mobile.view.post.PostActivity
 import com.ceiba.mobile.vo.Status
 import com.ceiba.mobile.vo.User
-import com.codapps.examen_ingreso_android.R
-import com.codapps.examen_ingreso_android.databinding.ActivityMainBinding
+import com.ceiba.examen_ingreso_android.R
+import com.ceiba.examen_ingreso_android.databinding.ActivityMainBinding
 import dagger.hilt.android.AndroidEntryPoint
 
 
